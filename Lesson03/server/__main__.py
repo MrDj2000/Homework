@@ -37,20 +37,29 @@ while True:
         date = datetime.now()
         response_string = date.strftime('%d-%m-%y T%H:%M:%S')
         client.send(response_string.encode('utf-8'))
+
     elif request.get('action') == 'upper_text':
         client_data = request.get('data')
         response_string = client_data.upper()
         client.send(response_string.encode('utf-8'))
-    elif request.get('action') == 'stop_client':
+
+    elif request.get('action') == 'presence':
+        user = request.get('user')
+        response_string = 'Hello ' + user.get('account_name')
+        client.send(response_string.encode('utf-8'))
+
+    elif request.get('action') == 'quit':
         response_string = 'The client has been closed connect'
         client.send(response_string.encode('utf-8'))
         client.close()
+
     elif request.get('action') == 'stop_server':
         response_string = 'The server has been stopped'
         print(response_string)
         client.send(response_string.encode('utf-8'))
         client.close()
         break
+
     else:
         response_string = 'Action not supported'
         client.send(response_string.encode('utf-8'))
