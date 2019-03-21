@@ -2,6 +2,7 @@ import socket
 import json
 import sys
 import time
+from presence import json_presence
 
 
 if len(sys.argv) == 2:
