@@ -4,3 +4,4 @@ __pycache__
 .coverage
 __init__.py
 *.pyc
+.idea

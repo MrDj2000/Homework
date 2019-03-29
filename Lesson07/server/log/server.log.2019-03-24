@@ -1,0 +1,392 @@
+2019-03-24 19:33:41,642 INFO       __main__ Server start with host:0.0.0.0 and port: 7777
+2019-03-24 19:33:47,436 INFO       __main__ Client detected ('127.0.0.1', 61287)
+2019-03-24 19:33:47,498 INFO       controllers  User name - MrDj2000
+2019-03-24 19:33:47,500 INFO       __main__ Client detected ('127.0.0.1', 61288)
+2019-03-24 19:55:45,916 ERROR      __main__ Action not found: shutdown
+2019-03-24 19:55:45,921 INFO       __main__ Client detected ('127.0.0.1', 63467)
+2019-03-24 19:55:55,686 INFO       controllers Shutdown server
+2019-03-24 19:55:55,687 INFO       __main__ Shutdown server
+2019-03-24 19:56:00,016 INFO       __main__ Server start with host:0.0.0.0 and port: 7777
+2019-03-24 19:56:29,117 INFO       __main__ Client detected ('127.0.0.1', 63486)
+2019-03-24 19:57:33,899 INFO       __main__ Server start with host:0.0.0.0 and port: 7777
+2019-03-24 19:57:40,752 INFO       __main__ Client detected ('127.0.0.1', 63622)
+2019-03-24 19:57:40,759 INFO       controllers  User name - MrDj2000
+2019-03-24 19:57:40,761 INFO       __main__ Client detected ('127.0.0.1', 63623)
+2019-03-24 19:58:16,131 INFO       controllers ПРИВЕТ
+2019-03-24 19:58:16,135 INFO       __main__ Client detected ('127.0.0.1', 63635)
+2019-03-24 20:00:39,824 INFO       controllers Shutdown server
+2019-03-24 20:00:39,825 INFO       __main__ Shutdown server
+2019-03-24 20:00:46,485 INFO       __main__ Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:00:48,440 INFO       __main__ Client detected ('127.0.0.1', 63787)
+2019-03-24 20:00:48,445 INFO       controllers  User name - MrDj2000
+2019-03-24 20:00:48,446 INFO       __main__ Client detected ('127.0.0.1', 63788)
+2019-03-24 20:01:56,509 INFO       controllers ПРИВЕТ
+2019-03-24 20:01:56,513 INFO       __main__ Client detected ('127.0.0.1', 63834)
+2019-03-24 20:05:20,801 INFO       controllers Shutdown server
+2019-03-24 20:05:20,802 INFO       __main__ Shutdown server
+2019-03-24 20:05:27,860 INFO       __main__ Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:05:34,434 INFO       __main__ Client detected ('127.0.0.1', 64242)
+2019-03-24 20:05:34,442 INFO       controllers  User name - MrDj2000
+2019-03-24 20:05:34,444 INFO       __main__ Client detected ('127.0.0.1', 64243)
+2019-03-24 20:09:08,240 INFO       __main__ Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:09:23,306 INFO       __main__ Client detected ('127.0.0.1', 64572)
+2019-03-24 20:09:23,339 INFO       controllers  User name - MrDj2000
+2019-03-24 20:09:23,343 INFO       __main__ Client detected ('127.0.0.1', 64573)
+2019-03-24 20:12:19,834 INFO       controllers Shutdown server
+2019-03-24 20:12:19,836 INFO       __main__ Shutdown server
+2019-03-24 20:12:27,275 INFO       __main__ Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:12:35,648 INFO       __main__ Client detected ('127.0.0.1', 64862)
+2019-03-24 20:12:35,654 INFO       controllers  User name - MrDj2000
+2019-03-24 20:12:35,654 INFO       decorators Yes, worked
+2019-03-24 20:12:35,655 INFO       __main__ Client detected ('127.0.0.1', 64863)
+2019-03-24 20:15:01,094 INFO       controllers Shutdown server
+2019-03-24 20:15:01,095 INFO       decorators Yes, worked
+2019-03-24 20:15:01,095 INFO       __main__ Shutdown server
+2019-03-24 20:15:33,872 INFO       __main__ Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:15:35,239 INFO       __main__ Client detected ('127.0.0.1', 65010)
+2019-03-24 20:15:35,444 INFO       controllers  User name - MrDj2000
+2019-03-24 20:15:35,445 INFO       decorators Yes, worked
+2019-03-24 20:15:35,446 INFO       __main__ Client detected ('127.0.0.1', 65011)
+2019-03-24 20:17:31,379 INFO       controllers ОК
+2019-03-24 20:17:31,381 INFO       decorators Yes, worked
+2019-03-24 20:17:31,396 INFO       __main__ Client detected ('127.0.0.1', 65158)
+2019-03-24 20:17:55,213 INFO       controllers Shutdown server
+2019-03-24 20:17:55,214 INFO       decorators Yes, worked
+2019-03-24 20:17:55,215 INFO       __main__ Shutdown server
+2019-03-24 20:18:27,145 INFO       __main__ Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:18:30,631 INFO       __main__ Client detected ('127.0.0.1', 65188)
+2019-03-24 20:18:30,650 INFO       controllers  User name - MrDj2000
+2019-03-24 20:18:30,651 INFO       decorators Yes, worked. func_name: presence
+2019-03-24 20:18:30,655 INFO       __main__ Client detected ('127.0.0.1', 65189)
+2019-03-24 20:26:59,023 INFO       controllers Shutdown server
+2019-03-24 20:26:59,469 INFO       decorators Yes, worked. func_name: shutdown_server
+2019-03-24 20:26:59,471 INFO       __main__ Shutdown server
+2019-03-24 20:27:25,534 INFO       __main__                  Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:27:27,783 INFO       __main__                  Client detected ('127.0.0.1', 49615)
+2019-03-24 20:27:59,088 INFO       __main__                  Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:28:15,278 INFO       __main__                  Client detected ('127.0.0.1', 49647)
+2019-03-24 20:28:43,594 INFO       __main__                  Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:28:47,384 INFO       __main__                  Client detected ('127.0.0.1', 49657)
+2019-03-24 20:28:47,510 INFO       controllers                User name - MrDj2000
+2019-03-24 20:28:47,515 WARNING    decorators                Yes, worked. func_name: presence None
+2019-03-24 20:28:47,556 INFO       __main__                  Client detected ('127.0.0.1', 49658)
+2019-03-24 20:30:23,225 INFO       controllers               HELLO
+2019-03-24 20:30:23,226 WARNING    decorators                Yes, worked. func_name: get_upper_text hello
+2019-03-24 20:30:23,389 INFO       __main__                  Client detected ('127.0.0.1', 49695)
+2019-03-24 20:30:37,603 ERROR      __main__                  Action not found: Shutdown_server
+2019-03-24 20:30:37,607 INFO       __main__                  Client detected ('127.0.0.1', 49708)
+2019-03-24 20:30:48,132 INFO       controllers               Shutdown server
+2019-03-24 20:30:48,132 WARNING    decorators                Yes, worked. func_name: shutdown_server None
+2019-03-24 20:30:48,136 INFO       __main__                  Shutdown server
+2019-03-24 20:32:27,908 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:32:29,781 INFO       __main__        Client detected ('127.0.0.1', 49831)
+2019-03-24 20:32:30,084 INFO       controllers      User name - MrDj2000
+2019-03-24 20:32:30,307 WARNING    decorators      Function presence was called.
+Stack (most recent call last):
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 20, in wrap
+    message % format_mapping, stack_info=True
+2019-03-24 20:32:30,359 INFO       __main__        Client detected ('127.0.0.1', 49834)
+2019-03-24 20:33:32,582 INFO       controllers     Shutdown server
+2019-03-24 20:33:32,587 WARNING    decorators      Function shutdown_server was called.
+Stack (most recent call last):
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 20, in wrap
+    message % format_mapping.get('func_name'), stack_info=True
+2019-03-24 20:33:32,588 INFO       __main__        Shutdown server
+2019-03-24 20:33:38,029 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:33:42,810 INFO       __main__        Client detected ('127.0.0.1', 49967)
+2019-03-24 20:33:43,512 INFO       controllers      User name - MrDj2000
+2019-03-24 20:33:43,513 CRITICAL   __main__        format requires a mapping
+Traceback (most recent call last):
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 20, in wrap
+    message % format_mapping.get('func_name'), stack_info=True
+TypeError: format requires a mapping
+2019-03-24 20:33:43,520 INFO       __main__        Client detected ('127.0.0.1', 49969)
+2019-03-24 20:36:04,855 INFO       controllers     Shutdown server
+2019-03-24 20:36:04,855 CRITICAL   __main__        format requires a mapping
+Traceback (most recent call last):
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 20, in wrap
+    #            message % format_mapping.get('func_name'), stack_info=True
+TypeError: format requires a mapping
+2019-03-24 20:36:52,268 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:36:56,139 INFO       __main__        Client detected ('127.0.0.1', 50235)
+2019-03-24 20:36:56,170 INFO       controllers      User name - MrDj2000
+2019-03-24 20:36:56,178 CRITICAL   __main__        format requires a mapping
+Traceback (most recent call last):
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 21, in wrap
+    message % func.__name__, stack_info=True
+TypeError: format requires a mapping
+2019-03-24 20:36:56,207 INFO       __main__        Client detected ('127.0.0.1', 50236)
+2019-03-24 20:37:33,874 INFO       controllers     Shutdown server
+2019-03-24 20:37:33,874 CRITICAL   __main__        format requires a mapping
+Traceback (most recent call last):
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 21, in wrap
+    message % func.__name__#, stack_info=True
+TypeError: format requires a mapping
+2019-03-24 20:37:50,945 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:37:57,986 INFO       __main__        Client detected ('127.0.0.1', 50269)
+2019-03-24 20:37:58,006 INFO       controllers      User name - MrDj2000
+2019-03-24 20:37:58,032 CRITICAL   __main__        format requires a mapping
+Traceback (most recent call last):
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 21, in wrap
+    message % func.__name__#, stack_info=True
+TypeError: format requires a mapping
+2019-03-24 20:37:58,218 INFO       __main__        Client detected ('127.0.0.1', 50270)
+2019-03-24 20:40:43,666 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:40:47,533 INFO       __main__        Client detected ('127.0.0.1', 50482)
+2019-03-24 20:40:47,733 INFO       controllers      User name - MrDj2000
+2019-03-24 20:40:47,754 WARNING    decorators      Function presence was called.
+Stack (most recent call last):
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 21, in wrap
+    message % format_mapping, stack_info=True
+2019-03-24 20:40:47,756 INFO       __main__        Client detected ('127.0.0.1', 50484)
+2019-03-24 20:41:26,755 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:41:31,339 INFO       __main__        Client detected ('127.0.0.1', 50581)
+2019-03-24 20:41:31,345 INFO       controllers      User name - MrDj2000
+2019-03-24 20:41:31,346 WARNING    decorators      Function presence was called.
+Stack (most recent call last):
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 21, in wrap
+    message % format_mapping, stack_info=True
+2019-03-24 20:41:31,348 INFO       __main__        Client detected ('127.0.0.1', 50582)
+2019-03-24 20:46:32,271 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:47:58,610 INFO       __main__        Client detected ('127.0.0.1', 51131)
+2019-03-24 20:47:58,734 INFO       controllers      User name - MrDj2000
+2019-03-24 20:47:58,735 WARNING    decorators      Yes, worked. func_name: presence
+2019-03-24 20:47:58,739 INFO       __main__        Client detected ('127.0.0.1', 51132)
+2019-03-24 20:50:04,686 INFO       controllers     Shutdown server
+2019-03-24 20:50:04,693 WARNING    decorators      Yes, worked. func_name: shutdown_server
+2019-03-24 20:50:04,694 INFO       __main__        Shutdown server
+2019-03-24 20:50:07,958 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:50:10,906 INFO       __main__        Client detected ('127.0.0.1', 51221)
+2019-03-24 20:50:27,964 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:50:30,229 INFO       __main__        Client detected ('127.0.0.1', 51230)
+2019-03-24 20:50:30,248 INFO       controllers      User name - MrDj2000
+2019-03-24 20:50:30,323 WARNING    decorators      Yes, worked. func_name: Function presence was called.
+2019-03-24 20:50:30,326 INFO       __main__        Client detected ('127.0.0.1', 51231)
+2019-03-24 20:51:56,013 INFO       controllers     Shutdown server
+2019-03-24 20:51:56,014 WARNING    decorators      Yes, worked. func_name: Function shutdown_server was called.
+2019-03-24 20:51:56,014 INFO       __main__        Shutdown server
+2019-03-24 20:51:59,513 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:52:01,421 INFO       __main__        Client detected ('127.0.0.1', 51497)
+2019-03-24 20:52:01,454 INFO       controllers      User name - MrDj2000
+2019-03-24 20:52:01,460 WARNING    decorators      Function presence was called.
+Stack (most recent call last):
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 21, in wrap
+    message_str, stack_info=True
+2019-03-24 20:52:01,466 INFO       __main__        Client detected ('127.0.0.1', 51498)
+2019-03-24 20:53:52,781 INFO       controllers     Shutdown server
+2019-03-24 20:53:52,783 WARNING    decorators      Function shutdown_server was called.
+Stack (most recent call last):
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\Pavel\AppData\Local\Programs\Python\Python37-32\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 21, in wrap
+    message_str#, stack_info=True
+2019-03-24 20:53:52,788 INFO       __main__        Shutdown server
+2019-03-24 20:53:55,478 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:53:57,318 INFO       __main__        Client detected ('127.0.0.1', 51598)
+2019-03-24 20:53:57,365 WARNING    decorators      Function presence was called.
+2019-03-24 20:53:57,366 INFO       controllers      User name - MrDj2000
+2019-03-24 20:53:57,389 INFO       __main__        Client detected ('127.0.0.1', 51599)
+2019-03-24 20:55:14,695 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 20:55:14,699 INFO       controllers     Shutdown server
+2019-03-24 20:55:14,700 INFO       __main__        Shutdown server
+2019-03-24 20:55:20,993 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:55:23,288 INFO       __main__        Client detected ('127.0.0.1', 51708)
+2019-03-24 20:55:23,345 WARNING    decorators      Function presence was called.
+2019-03-24 20:55:23,366 INFO       controllers      User name - MrDj2000
+2019-03-24 20:55:23,433 INFO       __main__        Client detected ('127.0.0.1', 51709)
+2019-03-24 20:55:36,847 CRITICAL   __main__        'data'
+Traceback (most recent call last):
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 18, in wrap
+    message_str = message % format_mapping
+KeyError: 'data'
+2019-03-24 20:55:36,963 INFO       __main__        Client detected ('127.0.0.1', 51726)
+2019-03-24 20:56:24,713 ERROR      __main__        Action not found: shutdown
+2019-03-24 20:56:24,799 INFO       __main__        Client detected ('127.0.0.1', 51753)
+2019-03-24 20:56:39,194 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 20:56:39,195 INFO       controllers     Shutdown server
+2019-03-24 20:56:39,195 INFO       __main__        Shutdown server
+2019-03-24 20:56:43,236 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 20:56:45,127 INFO       __main__        Client detected ('127.0.0.1', 51800)
+2019-03-24 20:56:45,314 WARNING    decorators      Function presence was called.
+2019-03-24 20:56:45,314 INFO       controllers      User name - MrDj2000
+2019-03-24 20:56:45,316 INFO       __main__        Client detected ('127.0.0.1', 51802)
+2019-03-24 20:57:24,456 WARNING    decorators      Function get_upper_text was called with data - Проверка
+2019-03-24 20:57:24,460 INFO       controllers     ПРОВЕРКА
+2019-03-24 20:57:24,535 INFO       __main__        Client detected ('127.0.0.1', 51895)
+2019-03-24 21:30:20,009 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 21:30:20,011 INFO       controllers     Shutdown server
+2019-03-24 21:30:20,011 INFO       __main__        Shutdown server
+2019-03-24 21:30:26,006 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 21:30:30,389 INFO       __main__        Client detected ('127.0.0.1', 55126)
+2019-03-24 21:30:30,444 CRITICAL   __main__        incomplete format
+Traceback (most recent call last):
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 25, in wrap
+    message_str = message % format_mapping
+ValueError: incomplete format
+2019-03-24 21:30:30,473 INFO       __main__        Client detected ('127.0.0.1', 55127)
+2019-03-24 21:38:48,781 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 21:38:48,783 INFO       controllers     Shutdown server
+2019-03-24 21:38:48,783 INFO       __main__        Shutdown server
+2019-03-24 21:38:52,383 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 21:38:53,848 INFO       __main__        Client detected ('127.0.0.1', 56148)
+2019-03-24 21:38:53,860 CRITICAL   __main__        incomplete format
+Traceback (most recent call last):
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 25, in wrap
+    message_str = message % format_mapping
+ValueError: incomplete format
+2019-03-24 21:38:53,862 INFO       __main__        Client detected ('127.0.0.1', 56149)
+2019-03-24 21:40:00,287 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 21:40:00,288 INFO       controllers     Shutdown server
+2019-03-24 21:40:00,288 INFO       __main__        Shutdown server
+2019-03-24 21:40:04,728 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 21:40:06,078 INFO       __main__        Client detected ('127.0.0.1', 56385)
+2019-03-24 21:40:06,084 WARNING    decorators      2019-03-24 21:40:06.084949 Function presence was called from <module>
+2019-03-24 21:40:06,084 INFO       controllers      User name - MrDj2000
+2019-03-24 21:40:06,086 INFO       __main__        Client detected ('127.0.0.1', 56386)
+2019-03-24 21:45:36,696 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 21:45:36,696 INFO       controllers     Shutdown server
+2019-03-24 21:45:36,696 INFO       __main__        Shutdown server
+2019-03-24 21:45:40,057 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 21:45:41,918 INFO       __main__        Client detected ('127.0.0.1', 56718)
+2019-03-24 21:45:41,924 WARNING    decorators      2019-03-24 21:45:41.923456 Function presence was called from <module>
+2019-03-24 21:45:41,925 INFO       controllers      User name - MrDj2000
+2019-03-24 21:45:41,929 INFO       __main__        Client detected ('127.0.0.1', 56719)
+2019-03-24 21:46:28,225 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 21:46:28,226 INFO       controllers     Shutdown server
+2019-03-24 21:46:28,226 INFO       __main__        Shutdown server
+2019-03-24 21:46:30,744 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 21:46:32,666 INFO       __main__        Client detected ('127.0.0.1', 56742)
+2019-03-24 21:46:32,672 WARNING    decorators      2019-03-24 21:46:32.672737 Function presence was called from _run_code
+2019-03-24 21:46:32,674 INFO       controllers      User name - MrDj2000
+2019-03-24 21:46:32,675 INFO       __main__        Client detected ('127.0.0.1', 56743)
+2019-03-24 21:47:43,731 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 21:47:43,732 INFO       controllers     Shutdown server
+2019-03-24 21:47:43,733 INFO       __main__        Shutdown server
+2019-03-24 21:47:44,170 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 21:47:47,999 INFO       __main__        Client detected ('127.0.0.1', 56797)
+2019-03-24 21:47:48,018 WARNING    decorators      2019-03-24 21:47:48.017316 Function presence was called from wrap
+2019-03-24 21:47:48,020 INFO       controllers      User name - MrDj2000
+2019-03-24 21:47:48,023 INFO       __main__        Client detected ('127.0.0.1', 56798)
+2019-03-24 21:54:19,132 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 21:54:19,136 INFO       controllers     Shutdown server
+2019-03-24 21:54:19,136 INFO       __main__        Shutdown server
+2019-03-24 21:54:22,022 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 21:54:24,136 INFO       __main__        Client detected ('127.0.0.1', 57467)
+2019-03-24 21:54:24,138 WARNING    decorators      2019-03-24 21:54:24.138905 Function presence was called from wrap
+2019-03-24 21:54:24,142 INFO       controllers      User name - MrDj2000
+2019-03-24 21:54:24,143 INFO       __main__        Client detected ('127.0.0.1', 57468)
+2019-03-24 21:55:34,570 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 21:55:34,580 INFO       controllers     Shutdown server
+2019-03-24 21:55:34,580 INFO       __main__        Shutdown server
+2019-03-24 21:55:34,730 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 21:55:50,525 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 21:55:52,662 INFO       __main__        Client detected ('127.0.0.1', 57581)
+2019-03-24 21:55:52,667 WARNING    decorators      2019-03-24 21:55:52.667762 Function presence was called from <module>
+2019-03-24 21:55:52,670 INFO       controllers      User name - MrDj2000
+2019-03-24 21:55:52,671 INFO       __main__        Client detected ('127.0.0.1', 57582)
+2019-03-24 21:58:59,966 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 21:58:59,978 INFO       controllers     Shutdown server
+2019-03-24 21:58:59,979 INFO       __main__        Shutdown server
+2019-03-24 21:59:03,339 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 21:59:05,572 INFO       __main__        Client detected ('127.0.0.1', 57894)
+2019-03-24 21:59:05,574 WARNING    decorators      2019-03-24 21:59:05.574284 Function presence was called from <module>
+2019-03-24 21:59:05,574 INFO       controllers      User name - MrDj2000
+2019-03-24 21:59:05,576 INFO       __main__        Client detected ('127.0.0.1', 57895)
+2019-03-24 22:07:02,822 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 22:07:02,823 INFO       controllers     Shutdown server
+2019-03-24 22:07:02,824 INFO       __main__        Shutdown server
+2019-03-24 22:07:05,807 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 22:07:07,587 INFO       __main__        Client detected ('127.0.0.1', 58506)
+2019-03-24 22:08:52,169 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 22:08:54,268 INFO       __main__        Client detected ('127.0.0.1', 58780)
+2019-03-24 22:08:54,284 WARNING    decorators      2019-03-24 22:08:54.284005 Function presence was called from text.controllers
+2019-03-24 22:08:54,285 INFO       controllers      User name - MrDj2000
+2019-03-24 22:08:54,286 INFO       __main__        Client detected ('127.0.0.1', 58781)
+2019-03-24 22:27:35,722 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 22:27:35,723 INFO       controllers     Shutdown server
+2019-03-24 22:27:35,723 INFO       __main__        Shutdown server
+2019-03-24 22:27:40,146 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 22:27:42,209 INFO       __main__        Client detected ('127.0.0.1', 63647)
+2019-03-24 22:27:42,216 CRITICAL   __main__        can only concatenate str (not "dict") to str
+Traceback (most recent call last):
+  File "server\__main__.py", line 49, in <module>
+    response = controller(request)
+  File "server\decorators.py", line 34, in wrap
+    logger.warning('Hello ' + user_name)
+TypeError: can only concatenate str (not "dict") to str
+2019-03-24 22:27:42,218 INFO       __main__        Client detected ('127.0.0.1', 63648)
+2019-03-24 22:30:48,572 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 22:30:48,573 INFO       controllers     Shutdown server
+2019-03-24 22:30:48,573 INFO       __main__        Shutdown server
+2019-03-24 22:30:53,271 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 22:30:56,072 INFO       __main__        Client detected ('127.0.0.1', 63818)
+2019-03-24 22:30:56,101 WARNING    decorators      User name - MrDj2000
+2019-03-24 22:30:56,104 WARNING    decorators      2019-03-24 22:30:56.103034 Function presence was called from text.controllers
+2019-03-24 22:30:56,108 INFO       __main__        Client detected ('127.0.0.1', 63819)
+2019-03-24 22:32:46,843 WARNING    decorators      Function get_upper_text was called with data - хай
+2019-03-24 22:32:46,844 INFO       controllers     ХАЙ
+2019-03-24 22:32:46,847 INFO       __main__        Client detected ('127.0.0.1', 64066)
+2019-03-24 22:34:20,413 WARNING    decorators      Function shutdown_server was called.
+2019-03-24 22:34:20,413 INFO       controllers     Shutdown server
+2019-03-24 22:34:20,413 INFO       __main__        Shutdown server
+2019-03-24 22:34:24,805 INFO       __main__        Server start with host:0.0.0.0 and port: 7777
+2019-03-24 22:34:26,917 INFO       __main__        Client detected ('127.0.0.1', 64253)
+2019-03-24 22:34:26,926 WARNING    decorators      User name - MrDj2000
+2019-03-24 22:34:26,927 WARNING    decorators      2019-03-24 22:34:26.927617 Function presence was called from text.controllers
+2019-03-24 22:34:26,929 INFO       __main__        Client detected ('127.0.0.1', 64254)
+2019-03-24 22:34:50,466 WARNING    decorators      2019-03-24 22:34:50.466744 Function get_lower_text was called from text.controllers
+2019-03-24 22:34:50,467 INFO       controllers     hello world
+2019-03-24 22:34:50,470 INFO       __main__        Client detected ('127.0.0.1', 64347)
+2019-03-24 22:50:03,782 WARNING    decorators      2019-03-24 22:50:03.782819 Function shutdown_server was called from text.controllers
+2019-03-24 22:50:03,783 INFO       controllers     Shutdown server
+2019-03-24 22:50:03,783 INFO       __main__        Shutdown server
